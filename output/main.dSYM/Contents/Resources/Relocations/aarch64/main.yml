@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/adarshtamiri/Documents/personal/Projects, Internship & Reports/ARINC429-Simulator/output/main'
+relocations:     []
+...
